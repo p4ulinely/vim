@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/paulinely/git/react/chat/src'
+let g:netrw_dirhist_8='/Users/paulinely/git/react/chat'
+let g:netrw_dirhist_7='/'
+let g:netrw_dirhist_6='/Users/paulinely/git/react/chat'
+let g:netrw_dirhist_5='/Users/paulinely/git/react/chat/src'
+let g:netrw_dirhist_4='/Users/paulinely/git/react/chat'
+let g:netrw_dirhist_3='/Users/paulinely/git/react/chat/src'
+let g:netrw_dirhist_2='/Users/paulinely/git/react/chat'
+let g:netrw_dirhist_1='/Users/paulinely/git/react/chat/src'
+let g:netrw_dirhist_0='/Users/paulinely/git/react/chat'
